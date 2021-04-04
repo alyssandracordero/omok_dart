@@ -1,4 +1,4 @@
-import 'controller.dart';
+import '../lib/controller.dart';
 
 void main() {
   controller().start();
